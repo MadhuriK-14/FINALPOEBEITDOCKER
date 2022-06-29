@@ -1,7 +1,7 @@
 pipeline{
   environment{
     reg = "18051011/POEBEIT"
-    regCre = "docker_id"
+    regCre = "poe_id"
     dockerImg = ""
   }
   agent any
