@@ -1,5 +1,5 @@
 
-public class Hello{
+public class OddNo{
     public static void main(String[] args) 
     {
         int number=45;
